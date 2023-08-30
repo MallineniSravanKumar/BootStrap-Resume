@@ -1,0 +1,51 @@
+.My-image{
+    
+    height:60px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.gradient-background {
+    background-color: #F6F1F1;
+    
+}
+.nav-link{
+    color: black;
+}
+.introduction-background{
+    background-color: rgb(242, 234, 211);
+    
+}
+.span-intro{
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+.skills{
+    background-color: rgb(223, 215, 191);
+    
+}
+.side-images{
+    margin-right: 5px;
+}
+.border-bottom {
+    border-bottom: var(--bs-border-width) var(--bs-border-style) #212529!important;
+}
+#Education-background{
+    background-color: rgb(242, 234, 211);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    
+    background-color: #343a40;
+}
+.nav{
+    --bs-nav-link-hover-color: #0dcaf0;;
+}
+#Hobbies{
+    background-color: rgb(223, 215, 191);
+}
+#contact-details{
+    background-color: #A8A196;
+    
+    
+}
